@@ -33,7 +33,6 @@ Welcome to my GitHub profile! I’m a passionate developer with 2–3 years of e
 ## 🌍 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/dipanshu-singh)
 - 📧 117dcs@gmail.com *(update this to your real email)*
-- 🔗 Portfolio or blog (if any)
 
 ---
 
