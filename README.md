@@ -1,6 +1,6 @@
 # Hi there, I'm Dipanshu Singh 👋
 
-🚀 Salesforce Developer | Application Engineer | Automation Enthusiast
+🚀 Software Developer | Application Engineer | Automation Enthusiast
 
 Welcome to my GitHub profile! I’m a passionate developer with 2–3 years of experience building enterprise-grade Salesforce applications and integrating external systems using modern APIs and platforms like Workato.
 
